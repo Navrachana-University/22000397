@@ -51,6 +51,6 @@ To compile and run the code, follow these steps:
 
 ## Author Information:
 
-Name: Kirtan Shah
+Name: Naisargi Modi
 
-Roll Number: 22000428
+Roll Number: 22000399
